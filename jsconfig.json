@@ -1,6 +1,6 @@
 {
   "compilerOptions": {
-    "baseUrl": "./",
+    "baseUrl": "https://wesleibbs.github.io/Jetel-Mendes-24h/",
     "paths": {
       "@/*": ["src/*"]
     }
