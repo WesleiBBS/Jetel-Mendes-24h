@@ -1,0 +1,1 @@
+if('serviceWorker' in navigator) {window.addEventListener('load', () => {navigator.serviceWorker.register('/Jetel-Mendes-24h/sw.js', { scope: '/Jetel-Mendes-24h/' })})}
