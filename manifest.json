@@ -41,7 +41,7 @@
       "name": "Nova Pesquisa",
       "short_name": "Pesquisa",
       "description": "Responder nova pesquisa de satisfação",
-      "url": "/Jetel-Mendes-24h/pesquisa",
+      "url": "https://wesleibbs.github.io/Jetel-Mendes-24h/",
       "icons": [
         {
           "src": "jetelicon.png",
@@ -54,7 +54,7 @@
       "name": "Painel Admin",
       "short_name": "Admin",
       "description": "Acessar painel administrativo",
-      "url": "/Jetel-Mendes-24h/admin",
+      "url": "https://wesleibbs.github.io/Jetel-Mendes-24h/",
       "icons": [
         {
           "src": "jetelicon.png",
