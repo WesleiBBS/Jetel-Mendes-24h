@@ -4,8 +4,8 @@ const urlsToCache = [
   '/static/js/bundle.js',
   '/static/css/main.css',
   '/manifest.json',
-  '/icons/icon-192x192.png',
-  '/icons/icon-512x512.png'
+  '/icons/jetelicon.png',
+  '/icons/jetelicon.png'
 ];
 
 // Install event - cache resources
