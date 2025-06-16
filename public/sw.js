@@ -4,8 +4,8 @@ const urlsToCache = [
   '/static/js/bundle.js',
   '/static/css/main.css',
   '/manifest.json',
-  '/icons/jetelicon.png',
-  '/icons/jetelicon.png'
+  '/icons/jetelicon-192.png',
+  '/icons/jetelicon-192.png'
 ];
 
 // Install event - cache resources
@@ -147,8 +147,8 @@ async function removePendingSurvey(id) {
 self.addEventListener('push', (event) => {
   const options = {
     body: event.data ? event.data.text() : 'Nova notificação',
-    icon: '/icons/icon-192x192.png',
-    badge: '/icons/icon-72x72.png',
+    icon: '/icons/jetelicon-192.png',
+    badge: '/icons/jetelicon-192.png',
     vibrate: [100, 50, 100],
     data: {
       dateOfArrival: Date.now(),
@@ -158,12 +158,12 @@ self.addEventListener('push', (event) => {
       {
         action: 'explore',
         title: 'Ver detalhes',
-        icon: '/icons/icon-192x192.png'
+        icon: '/icons/jetelicon-192.png'
       },
       {
         action: 'close',
         title: 'Fechar',
-        icon: '/icons/icon-192x192.png'
+        icon: '/icons/jetelicon-192.png'
       }
     ]
   };
