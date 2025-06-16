@@ -11,14 +11,14 @@
   "lang": "pt-BR",
   "icons": [
     {
-      "src": "icons/jetelicon.png",
+      "src": "icons/jetelicon-192.png",
       "sizes": "192x192",
       "type": "image/png",
       "purpose": "maskable any"
     },
     {
       "src": "icons/jetelicon.png",
-      "sizes": "512x512",
+      "sizes": "360x360",
       "type": "image/png",
       "purpose": "maskable any"
     }
